@@ -1,0 +1,1 @@
+export const JSON_BASE_URL = "https://mock-json-final.herokuapp.com"
