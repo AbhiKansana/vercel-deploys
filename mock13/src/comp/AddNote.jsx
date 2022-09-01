@@ -16,7 +16,7 @@ import {
   import { AiOutlinePlus } from 'react-icons/ai'
   import { JSON_BASE_URL } from "../utils/url"
   import axios from "axios"
-import { Notes } from "@material-ui/icons"
+
 
 
 export default function AddNote({setCnt,cnt}) {
