@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Raman",
+      "age": "52",
+      "gender": "female",
+      "country": "India",
+      "profession": "student",
+      "id": 1
+    },
+    {
+      "gender": "male",
+      "name": "asdf",
+      "age": "4",
+      "country": "asdf",
+      "profession": "employed",
+      "id": 2
+    },
+    {
+      "gender": "male",
+      "name": "Pankaj",
+      "age": "4",
+      "country": "asdf",
+      "profession": "employed",
+      "id": 3
+    },
+    {
+      "gender": "male",
+      "name": "Mahesh",
+      "age": "35",
+      "country": "World",
+      "profession": "employed",
+      "id": 4
+    }
+  ]
+}
