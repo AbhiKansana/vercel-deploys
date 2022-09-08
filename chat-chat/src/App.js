@@ -4,11 +4,11 @@ import Router from './pages/Router'
 
 function App() {
   return (
-    <div className="App">
-     <Box maxW='900px' m='2.5rem auto'>
+    <Box h={'100vh'} py='4rem' bg='whatsapp.900' className="App">
+     <Box maxW='900px' m='auto'>
         <Router/>
      </Box>
-    </div>
+    </Box>
   );
 }
 
